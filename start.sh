@@ -64,7 +64,7 @@ EOF
 echo "node started"
 
 echo "wait 20 seconds for bootstraps..."
-sleep 10
+sleep 20
 
 echo "get nodeId: "
 curl -X POST --data '{
